@@ -1,0 +1,6 @@
+@dovandung0300467_HostAddress = http://localhost:5078
+
+GET {{dovandung0300467_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
